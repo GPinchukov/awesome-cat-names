@@ -12,3 +12,4 @@ A list of awesome cat names. Presented in different languages. PR's are welcome!
 - Жора
 - Дейнерис
 - Аслан
+- Клизма
